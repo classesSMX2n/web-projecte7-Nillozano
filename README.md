@@ -2,7 +2,9 @@
 
 ![Logo](FoodLogisticLogo.png)
 
-Autors: [nom dels components del grup]
+Autors: Anthony Milla i Nil Lozano
+
+Link pàgina web: https://classessmx2n.github.io/web-projecte7-Nillozano/
 
 ## Descripció
 
